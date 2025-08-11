@@ -1,0 +1,18 @@
+- parameters 👇
+
+key = your key api
+text = prompt
+think = Y or N
+monday = Y or N
+learn = Y or N
+name = Username
+all = All messages between the user and the bot
+ab = About the user or bot
+search = Y or N
+file = User file text
+
+- Only POST method is allowed.
+- Response 👇
+
+data = Robot response
+imgurl = URL of the created image
